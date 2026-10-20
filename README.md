@@ -11,10 +11,8 @@ The robot is capable of PID-controlled line following for smooth and precise mov
 - PID Line Following: Smooth motor control to maintain accurate line tracking.
 
 - Maze Navigation:
-
--  Detects intersections with left, center, or right lines.
-
--  Executes predefined maneuvers at intersections (turn left, turn right, or go straight).
+  -  Detects intersections with left, center, or right lines.
+  -  Executes predefined maneuvers at intersections (turn left, turn right, or go straight).
 
 - Motor Control: Uses TB6612FNG driver to control left and right motors.
 
